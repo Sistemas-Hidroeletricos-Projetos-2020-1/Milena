@@ -15,4 +15,10 @@ Esse trabalho busca simular, por meio da ferramenta Fluent disponível no softwa
 
 **Simulação**
 
-Para fazer  simulação será
+Para fazer a simulação será usado uma geometria pré-definida, o primeiro passo da simulação é mudar as cores relacionadas a cada região seguindo os passos da figura abaixo
+
+![02](02.PNG)
+
+Depois de feito esses passos você terá a seguinte representação
+
+![03](03.PNG)
